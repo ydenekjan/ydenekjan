@@ -2,7 +2,6 @@
 - 👀 I’m interested in UI Design, Music and Videogames.
 - 🌱 I’m currently learning TypeSript, looking to learn Sass in the future and refining my React.js and TailwindCSS skills.
 - 📫 You can reach me best by using my ydenekjan@gmail.com email address.
-- ⚡ Something interesting about me is me being a member of Mensa Czechia
 
 <!---
 ydenekjan/ydenekjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
