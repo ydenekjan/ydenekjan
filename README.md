@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Jan Zdenek
-- 👀 I’m interested in UI Design, Music and Videogames.
-- 🌱 I’m currently learning TypeSript, looking to learn Sass in the future and refining my React.js and TailwindCSS skills.
-- 📫 You can reach me best by using my ydenekjan@gmail.com email address.
+- 👋 Hi, I'm Jan Zdenek
+- 👀 My passion is creating beatiful and user friendly front-ends for web applications. I'm also interested in music and videogames.
+- 🌱 I'm currently refining my Next.js and React.js skills and focusing on creating readable and scalable code
 
 <!---
 ydenekjan/ydenekjan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
